@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/settings"
+          android:title="Settings"/>
+    <item android:id="@+id/copy"
+        android:title="copy"/>
+    <item android:id="@+id/move"
+        android:title="move"/>
+    <item android:id="@+id/paste"
+        android:title="paste"/>
+
+
+</menu>
